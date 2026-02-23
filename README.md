@@ -30,10 +30,5 @@ I am a passionate developer with **1+ years of experience**, specializing in **L
 
 ### 📊 GitHub Stats
 
-![CharlieKoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlieKoo&show_icons=true&theme=radical)
-![CharlieKoo's Streak](https://streak-stats.demolab.com?user=CharlieKoo&theme=radical)
-
----
-
 Visitor count<br>
 ![Visitor Count](https://komarev.com/ghpvc/?username=CharlieKoo&label=Profile%20views&color=0e75b6&style=flat)
