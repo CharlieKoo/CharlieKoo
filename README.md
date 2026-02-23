@@ -2,7 +2,7 @@
 
 ### 👨‍💻 AI & Algorithm Engineer
 
-I am a passionate developer with **1+ years of experience**, specializing in **Large Language Models (LLMs)**, **Computer Vision**, and **Time Series Signal Processing**.
+I am a passionate developer with **1+ years of experience**, specializing in **Large Language Models (LLMs)**, **Time Series Signal Processing**, and have a strong focus on **Deep Learning based Lossless Image Compression**.
 
 ---
 
@@ -21,6 +21,7 @@ I am a passionate developer with **1+ years of experience**, specializing in **L
 
 ### 🔭 Areas of Focus
 
+- **Lossless Image Compression:** Deep Learning based approaches (Core Expertise), Neural Compression.
 - **Large Model Development:** Training, Fine-tuning (SFT/RLHF), Inference Optimization.
 - **Computer Vision:** Object Detection, Segmentation, Generative AI.
 - **Time Series Analysis:** Signal Processing, Forecasting, Anomaly Detection.
